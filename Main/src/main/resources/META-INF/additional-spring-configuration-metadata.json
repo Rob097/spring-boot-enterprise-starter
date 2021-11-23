@@ -1,0 +1,102 @@
+{"properties": [
+  {
+    "name": "jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'jwtSecret'"
+  },
+  {
+    "name": "jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'jwtExpirationMs'"
+  },
+  {
+    "name": "jwtHeader",
+    "type": "java.lang.String",
+    "description": "A description for 'jwtHeader'"
+  },
+  {
+    "name": "jwtConstant",
+    "type": "java.lang.String",
+    "description": "A description for 'jwtConstant'"
+  },
+  {
+    "name": "jwtExpirationMsRememberMe",
+    "type": "java.lang.String",
+    "description": "A description for 'jwtExpirationMsRememberMe'"
+  },
+  {
+    "name": "secret.password",
+    "type": "java.lang.String",
+    "description": "A description for 'secret.password'"
+  },
+  {
+    "name": "secret.password",
+    "type": "java.lang.String",
+    "description": "A description for 'secret.password'"
+  },
+  {
+    "name": "secret.algorithm",
+    "type": "java.lang.String",
+    "description": "A description for 'secret.algorithm'"
+  },
+  {
+    "name": "secret.salt",
+    "type": "java.lang.String",
+    "description": "A description for 'secret.salt'"
+  },
+  {
+    "name": "secret.iv",
+    "type": "java.lang.String",
+    "description": "A description for 'secret.iv'"
+  },
+  {
+    "name": "jwtConstant",
+    "type": "java.lang.String",
+    "description": "A description for 'jwtConstant'"
+  },
+  {
+    "name": "jwtConstant",
+    "type": "java.lang.String",
+    "description": "A description for 'jwtConstant'"
+  },
+  {
+    "name": "spring.datasource.port",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.port'"
+  },
+  {
+    "name": "spring.datasource.host",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.host'"
+  },
+  {
+    "name": "spring.datasource.port",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.port'"
+  },
+  {
+    "name": "spring.datasource.host",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.host'"
+  },
+  {
+    "name": "secret.password",
+    "type": "java.lang.String",
+    "description": "A description for 'secret.password'"
+  },
+  {
+    "name": "secret.algorithm",
+    "type": "java.lang.String",
+    "description": "A description for 'secret.algorithm'"
+  },
+  {
+    "name": "secret.salt",
+    "type": "java.lang.String",
+    "description": "A description for 'secret.salt'"
+  },
+  {
+    "name": "secret.iv",
+    "type": "java.lang.String",
+    "description": "A description for 'secret.iv'"
+  }
+]}
